@@ -1,0 +1,98 @@
+[
+  {
+    "name": "caustics",
+    "arxiv": "https://arxiv.org/html/2511.09361v2",
+    "figure": "S4.F16",
+    "source": "https://arxiv.org/html/2511.09361v2/Figs/physical_caustic.jpg",
+    "path": "assets/papers/caustics-physical.jpg",
+    "caption": "Physical caustic lens prototype and projected target image."
+  },
+  {
+    "name": "intersyn",
+    "arxiv": "https://arxiv.org/html/2506.09427v2",
+    "figure": "S1.F1",
+    "source": "https://arxiv.org/html/2506.09427v2/dataset.png",
+    "path": "assets/papers/intersyn.png",
+    "caption": "Figure 1: InterSyn: Topic hierarchy and interleaved question answering samples"
+  },
+  {
+    "name": "longcli",
+    "arxiv": "https://arxiv.org/html/2602.14337v1",
+    "figure": "S3.F2",
+    "source": "https://arxiv.org/html/2602.14337v1/data_pipeline.png",
+    "path": "assets/papers/longcli-pipeline.png",
+    "caption": "LongCLI-Bench construction pipeline and dual-set verification."
+  },
+  {
+    "name": "lagen",
+    "arxiv": "https://arxiv.org/html/2511.21256v2",
+    "figure": "S0.F1",
+    "source": "https://arxiv.org/html/2511.21256v2/teaser.png",
+    "path": "assets/papers/lagen.png",
+    "caption": "Figure 1: This work introduces LaGen, a novel 4D LiDAR scene generation framework that can autoregressively generate (a) long-horizon autonomous driving scenes based solely on single-frame input. It is capable of generating high-fidelity LiDAR consistent with the real world; (b) illustrates the visualization results from different viewpoints."
+  },
+  {
+    "name": "forenagent",
+    "arxiv": "https://arxiv.org/html/2512.16300v1",
+    "figure": "S1.F1",
+    "source": "https://arxiv.org/html/2512.16300v1/first_forenagent.png",
+    "path": "assets/papers/forenagent.png",
+    "caption": "Figure 1: ForenAgent autonomously composes a global-to-local Python toolchain, accurately delivers a tampered verdict with precise localization of the forged region, and further demonstrates reflective self-correction by carefully revising an initially mislocalized crop to the appropriate region of interest."
+  },
+  {
+    "name": "armor",
+    "arxiv": "https://arxiv.org/html/2503.06542v2",
+    "figure": "S1.F1",
+    "source": "https://arxiv.org/html/2503.06542v2/architecture_1.png",
+    "path": "assets/papers/armor.png",
+    "caption": "Figure 1: Schematic diagram of the proposed ARMOR framework. This framework consists of an MLLM and a pre-trained VQVAE decoder; The codebook of MLLM is expanded to accommodate image information. Generation is completely based on the autoregressive architecture, and special tokens are used as switches for modality switching."
+  },
+  {
+    "name": "trajectories",
+    "source": "https://openaccess.thecvf.com/content/CVPR2026F/papers/Feng_From_Static_Snapshots_to_Dynamic_Trajectories_Evaluating_and_Enhancing_the_CVPRF_2026_paper.pdf",
+    "path": "assets/papers/trajectories.png",
+    "figure": "Figure 1, page 3",
+    "caption": "HieraLogic construction and LTBench evaluation protocol.",
+    "processing": "Rendered from the original PDF at 216 dpi and cropped to the complete figure.",
+    "note": "arXiv version not located through exact-title, method-name, and author searches. Official CVPR Findings paper used as an explicitly documented fallback."
+  },
+  {
+    "name": "lifi",
+    "source": "User-provided manuscript: 11792_LiFi_LiDAR_Generation_fr.pdf",
+    "figure": "Figure 1, page 3",
+    "path": "assets/papers/lifi-overview.png",
+    "processing": "Rendered directly from PDF at 288 dpi; figure bounds in top-left PDF coordinates.",
+    "pdfBounds": [
+      107,
+      71,
+      504,
+      235
+    ]
+  },
+  {
+    "name": "flashplanner",
+    "source": "User-provided manuscript: 10107_FlashPlanner_Real_Time_G.pdf",
+    "figure": "Figure 1, page 2",
+    "path": "assets/papers/flashplanner-overview.png",
+    "processing": "Rendered directly from PDF at 288 dpi; figure bounds in top-left PDF coordinates.",
+    "pdfBounds": [
+      145,
+      71,
+      468,
+      196
+    ]
+  },
+  {
+    "name": "thinking",
+    "source": "User-provided manuscript: 22609_Thinking_with_Imitation_.pdf",
+    "figure": "Figure 2, page 5",
+    "path": "assets/papers/thinking-overview.png",
+    "processing": "Rendered directly from PDF at 288 dpi; figure bounds in top-left PDF coordinates.",
+    "pdfBounds": [
+      108,
+      79,
+      504,
+      289
+    ]
+  }
+]
