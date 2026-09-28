@@ -1,0 +1,371 @@
+[
+  {
+    "id": "paper-1",
+    "title": "Computational Caustic Design for Surface Light Source",
+    "authors": [
+      "Sizhuo Zhou",
+      "Yuou Sun",
+      "Bailin Deng",
+      "Juyong Zhang"
+    ],
+    "venue": "TVCG",
+    "year": 2026,
+    "track": "Journal",
+    "url": "https://arxiv.org/abs/2511.09361",
+    "linkLabel": "Paper",
+    "publicationStatus": "published",
+    "image": "assets/papers/caustics-physical.jpg",
+    "imageAlt": "Physical caustic lens and its projected image; arXiv Figure 16.",
+    "imageSize": [
+      1934,
+      1182
+    ],
+    "imageCrop": [
+      4,
+      120,
+      1926,
+      1052
+    ],
+    "venueLabel": "IEEE TVCG",
+    "newsKey": "news-ieee-tvcg",
+    "publicationDate": "2026-02"
+  },
+  {
+    "id": "paper-2",
+    "title": "A High Quality Dataset and Reliable Evaluation for Interleaved Image-Text Generation",
+    "authors": [
+      "Yukang Feng",
+      "Jianwen Sun",
+      "Chuanhao Li",
+      "Zizhen Li",
+      "Jiaxin Ai",
+      "Fanrui Zhang",
+      "Sizhuo Zhou",
+      "Yifan Chang",
+      "Shenglin Zhang",
+      "Yu Dai",
+      "Kaipeng Zhang"
+    ],
+    "venue": "ICLR",
+    "year": 2026,
+    "track": "Main Conference",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/43b3b23fd3bc9c6e3fe8366f71e51c5b-Abstract-Conference.html",
+    "linkLabel": "Paper",
+    "publicationStatus": "published",
+    "image": "assets/papers/intersyn.png",
+    "imageAlt": "InterSyn taxonomy and interleaved examples; a horizontal detail from arXiv Figure 1.",
+    "imageSize": [
+      833,
+      703
+    ],
+    "imageCrop": [
+      34,
+      135,
+      765,
+      430
+    ],
+    "newsKey": "news-iclr-2026",
+    "publicationDate": "2026-04"
+  },
+  {
+    "id": "paper-3",
+    "title": "From Static Snapshots to Dynamic Trajectories: Evaluating and Enhancing the Learning Pathways of Multimodal Large Language Models",
+    "authors": [
+      "Yukang Feng",
+      "Wenxiao Wu",
+      "Jianwen Sun",
+      "Chuanhao Li",
+      "Fanrui Zhang",
+      "Zizhen Li",
+      "Jiaxin Ai",
+      "Sizhuo Zhou",
+      "Yifan Chang",
+      "Changxin Gao",
+      "Shenglin Zhang",
+      "Kaipeng Zhang"
+    ],
+    "venue": "CVPR",
+    "year": 2026,
+    "track": "Findings",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026F/html/Feng_From_Static_Snapshots_to_Dynamic_Trajectories_Evaluating_and_Enhancing_the_CVPRF_2026_paper.html",
+    "linkLabel": "Paper",
+    "publicationStatus": "published",
+    "image": "assets/papers/trajectories.png",
+    "imageAlt": "HieraLogic construction and LTBench evaluation protocol; cropped outer margins of official Figure 1.",
+    "imageSourceNote": "Official CVPR Findings version; arXiv version not located.",
+    "imageSize": [
+      1476,
+      684
+    ],
+    "imageCrop": [
+      17,
+      8,
+      1446,
+      675
+    ],
+    "newsKey": "news-cvpr-2026",
+    "publicationDate": "2026-06"
+  },
+  {
+    "id": "paper-4",
+    "title": "LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command‑Line Interfaces",
+    "authors": [
+      "Yukang Feng",
+      "Jianwen Sun",
+      "Zelai Yang",
+      "Jiaxin Ai",
+      "Chuanhao Li",
+      "Zizhen Li",
+      "Fanrui Zhang",
+      "Kang He",
+      "Rui Ma",
+      "Jifan Lin",
+      "Jie Sun",
+      "Yang Xiao",
+      "Sizhuo Zhou",
+      "Wenxiao Wu",
+      "Yiming Liu",
+      "Pengfei Liu",
+      "Shenglin Zhang",
+      "Kaipeng Zhang"
+    ],
+    "venue": "ACL",
+    "year": 2026,
+    "track": "Findings",
+    "url": "https://arxiv.org/abs/2602.14337",
+    "linkLabel": "Preprint",
+    "publicationStatus": "published",
+    "image": "assets/papers/longcli-pipeline.png",
+    "imageAlt": "Environment and solution repository construction; upper central detail from arXiv Figure 2.",
+    "imageSize": [
+      2018,
+      662
+    ],
+    "imageCrop": [
+      750,
+      15,
+      565,
+      274
+    ],
+    "newsKey": "news-acl-2026",
+    "publicationDate": "2026-07"
+  },
+  {
+    "id": "paper-5",
+    "title": "LaGen: Towards Autoregressive LiDAR Scene Generation",
+    "authors": [
+      "Sizhuo Zhou",
+      "Xiaosong Jia",
+      "Fanrui Zhang",
+      "Junjie Li",
+      "Juyong Zhang",
+      "Yukang Feng",
+      "Jianwen Sun",
+      "Songbur Wong",
+      "Junqi You",
+      "Junchi Yan"
+    ],
+    "venue": "ECCV",
+    "year": 2026,
+    "track": "Main Conference",
+    "url": "https://arxiv.org/abs/2511.21256",
+    "linkLabel": "Paper",
+    "publicationStatus": "published",
+    "image": "assets/papers/lagen.png",
+    "imageAlt": "Six sequential LiDAR frames from LaGen; left panel of arXiv Figure 1.",
+    "imageSize": [
+      1602,
+      605
+    ],
+    "imageCrop": [
+      28,
+      76,
+      926,
+      504
+    ],
+    "newsKey": "news-eccv-2026",
+    "publicationDate": "2026-09"
+  },
+  {
+    "id": "paper-6",
+    "title": "Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection",
+    "authors": [
+      "Fanrui Zhang",
+      "Qiang Zhang",
+      "Sizhuo Zhou",
+      "Jianwen Sun",
+      "Chuanhao Li",
+      "Jiaxin Ai",
+      "Yukang Feng",
+      "Yujie Zhang",
+      "Wenjie Li",
+      "Zizhen Li",
+      "Yifan Chang",
+      "Jiawei Liu",
+      "Kaipeng Zhang"
+    ],
+    "venue": "ECCV",
+    "year": 2026,
+    "track": "Main Conference",
+    "url": "https://arxiv.org/abs/2512.16300",
+    "linkLabel": "Paper",
+    "publicationStatus": "published",
+    "image": "assets/papers/forenagent.png",
+    "imageAlt": "ForenAgent prompt and global image-forgery analysis; upper detail from arXiv Figure 1.",
+    "imageSize": [
+      756,
+      851
+    ],
+    "imageCrop": [
+      16,
+      18,
+      720,
+      366
+    ],
+    "newsKey": "news-eccv-2026",
+    "publicationDate": "2026-09"
+  },
+  {
+    "id": "paper-7",
+    "title": "Empowering Multimodal Understanding Model with Interleaved Multimodal Generation Capability",
+    "authors": [
+      "Jianwen Sun",
+      "Yukang Feng",
+      "Chuanhao Li",
+      "Fanrui Zhang",
+      "Zizhen Li",
+      "Jiaxin Ai",
+      "Sizhuo Zhou",
+      "Yu Dai",
+      "Shenglin Zhang",
+      "Kaipeng Zhang"
+    ],
+    "venue": "TMLR",
+    "year": 2026,
+    "track": "Journal",
+    "url": "https://arxiv.org/abs/2503.06542",
+    "linkLabel": "Preprint",
+    "publicationStatus": "published",
+    "image": "assets/papers/armor.png",
+    "imageAlt": "ARMOR multimodal generation architecture; cropped outer margins of arXiv Figure 1.",
+    "imageSize": [
+      2037,
+      977
+    ],
+    "imageCrop": [
+      28,
+      24,
+      1987,
+      925
+    ],
+    "newsKey": "news-tmlr",
+    "publicationDate": "2026-07"
+  },
+  {
+    "id": "paper-8",
+    "title": "LiFi: LiDAR Generation from Multi-View Images via Geometric and Semantic Collaborative Guidance",
+    "authors": [
+      "Sizhuo Zhou",
+      "Xiaosong Jia",
+      "Fanrui Zhang",
+      "Qifeng Li",
+      "Junjie Li",
+      "Zirui Wang",
+      "Yukang Feng",
+      "Yu Hong",
+      "Shaofeng Zhang",
+      "Wenlong Liao",
+      "Tao He",
+      "Juyong Zhang",
+      "Junchi Yan"
+    ],
+    "venue": "NeurIPS",
+    "year": 2026,
+    "track": "Main Conference",
+    "url": "",
+    "linkLabel": "",
+    "publicationStatus": "forthcoming",
+    "image": "assets/papers/lifi-overview.png",
+    "imageSize": [
+      1588,
+      656
+    ],
+    "imageCrop": [
+      0,
+      0,
+      1588,
+      656
+    ],
+    "imageAlt": "Lifi framework overview; Figure 1 from the user-provided manuscript.",
+    "newsKey": "news-neurips-2026",
+    "publicationDate": "2026-12"
+  },
+  {
+    "id": "paper-9",
+    "title": "FlashPlanner: Real-Time Goal-Conditioned Flow-Matching Planning for Autonomous Driving with Online RL Fine-Tuning",
+    "authors": [
+      "Qifeng Li",
+      "Yubing Gao",
+      "Xiaosong Jia",
+      "Zhiliu Liu",
+      "Sizhuo Zhou",
+      "Wenlong Liao",
+      "Tao He",
+      "Junchi Yan"
+    ],
+    "venue": "NeurIPS",
+    "year": 2026,
+    "track": "Main Conference",
+    "url": "",
+    "linkLabel": "",
+    "publicationStatus": "forthcoming",
+    "image": "assets/papers/flashplanner-overview.png",
+    "imageSize": [
+      1292,
+      500
+    ],
+    "imageCrop": [
+      0,
+      0,
+      1292,
+      500
+    ],
+    "imageAlt": "Flashplanner framework overview; Figure 1 from the user-provided manuscript.",
+    "newsKey": "news-neurips-2026",
+    "publicationDate": "2026-12"
+  },
+  {
+    "id": "paper-10",
+    "title": "Thinking with Imitation: Adaptive Reinforcement-Imitation Learning for Tool-Augmented Scientific Reasoning",
+    "authors": [
+      "Fanrui Zhang",
+      "Hongmin Zhan",
+      "Qiang Zhang",
+      "Sizhuo Zhou",
+      "Zhaoyu Wang",
+      "Kaipeng Zhang",
+      "Jiawei Liu",
+      "Zheng-Jun Zha"
+    ],
+    "venue": "NeurIPS",
+    "year": 2026,
+    "track": "Main Conference",
+    "url": "",
+    "linkLabel": "",
+    "publicationStatus": "forthcoming",
+    "image": "assets/papers/thinking-overview.png",
+    "imageSize": [
+      1584,
+      840
+    ],
+    "imageCrop": [
+      0,
+      0,
+      1584,
+      840
+    ],
+    "imageAlt": "SciExplore-Bench construction and MimicAgent with adaptive reinforcement-imitation switching; Figure 2 from the user-provided manuscript.",
+    "newsKey": "news-neurips-2026",
+    "publicationDate": "2026-12"
+  }
+]

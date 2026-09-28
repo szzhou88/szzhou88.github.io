@@ -1,0 +1,60 @@
+[
+  {
+    "date": "2026-09",
+    "count": 3,
+    "venue": "NeurIPS 2026",
+    "source": "https://neurips.cc/Conferences/2026/Dates",
+    "dateBasis": "conference notification month; individual acceptance per user",
+    "id": "news-neurips-2026"
+  },
+  {
+    "date": "2026-07",
+    "count": 1,
+    "venue": "TMLR",
+    "kind": "published",
+    "source": "publications-source.md",
+    "dateBasis": "user supplied publication month; acceptance month not supplied",
+    "id": "news-tmlr"
+  },
+  {
+    "date": "2026-06",
+    "count": 2,
+    "venue": "ECCV 2026",
+    "source": "https://eccv.ecva.net/Conferences/2026/Dates",
+    "dateBasis": "conference final decision month; individual acceptance per user",
+    "id": "news-eccv-2026"
+  },
+  {
+    "date": "2026-04",
+    "count": 1,
+    "venue": "ACL 2026",
+    "source": "https://2026.aclweb.org/calls/main_conference_papers/",
+    "dateBasis": "conference notification month; individual acceptance per user",
+    "id": "news-acl-2026"
+  },
+  {
+    "date": "2026-02",
+    "count": 1,
+    "venue": "CVPR 2026",
+    "source": "https://cvpr.thecvf.com/Conferences/2026/Dates",
+    "dateBasis": "provisional main notification month; Findings opt-in date not yet supplied",
+    "id": "news-cvpr-2026"
+  },
+  {
+    "date": "2026-01",
+    "count": 1,
+    "venue": "ICLR 2026",
+    "source": "https://iclr.cc/Conferences/2026/Dates",
+    "dateBasis": "conference notification month; individual acceptance per user",
+    "id": "news-iclr-2026"
+  },
+  {
+    "date": "2025-11",
+    "count": 1,
+    "venue": "IEEE TVCG",
+    "kind": "accepted",
+    "source": "User-provided acceptance month",
+    "dateBasis": "Actual acceptance month supplied by user: November 2025",
+    "id": "news-ieee-tvcg"
+  }
+]
