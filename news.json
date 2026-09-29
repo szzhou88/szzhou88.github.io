@@ -11,9 +11,9 @@
     "date": "2026-07",
     "count": 1,
     "venue": "TMLR",
-    "kind": "published",
+    "kind": "accepted",
     "source": "publications-source.md",
-    "dateBasis": "user supplied publication month; acceptance month not supplied",
+    "dateBasis": "acceptance wording requested by user; existing July 2026 date retained",
     "id": "news-tmlr"
   },
   {

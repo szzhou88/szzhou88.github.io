@@ -111,3 +111,6 @@
 .biography p{margin:0}.biography p+p{margin-top:17px}.biography strong{font-weight:550;color:var(--ink)}
 @media(max-width:700px){.hero .hero-copy{display:contents}.hero{row-gap:14px}.hero .eyebrow{grid-column:1;grid-row:1;margin:0}.hero h1{grid-column:1;grid-row:2;margin:0}.hero .affiliation{grid-column:1;grid-row:3}.hero .portrait-block{grid-column:2;grid-row:1 / span 3;margin-top:5px}.hero .biography{grid-column:1 / -1;grid-row:4;margin:12px 0 4px;font-size:12px;line-height:1.85;max-width:none}.hero .primary-link{grid-column:1 / -1;grid-row:5;justify-self:start}.biography p+p{margin-top:15px}}
 @media print{.biography{font-size:11px;line-height:1.7;margin:15px 0}}
+
+/* Chinese name accompanies the English name without crowding narrow screens. */
+.hero h1 .chinese-name{display:inline-block;font-size:.46em;letter-spacing:0;white-space:nowrap;vertical-align:baseline}
