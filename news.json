@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10",
+    "kind": "award",
+    "award": "National Scholarship for Doctoral Students",
+    "source": "User-provided award announcement",
+    "id": "news-national-scholarship-2026"
+  },
+  {
     "date": "2026-09",
     "count": 3,
     "venue": "NeurIPS 2026",

@@ -85,14 +85,17 @@ def build():
         template = template.replace('{{' + name + '}}', version)
     updates = []
     for item in news:
-        venue = esc(item['venue'])
-        count = item['count']
-        subject = f'<strong>{count} {"paper" if count == 1 else "papers"}</strong>'
-        verb = 'has' if count == 1 else 'have'
-        if item.get('kind') == 'published':
-            sentence = f'{subject} {verb} been published in <strong>{venue}</strong>.'
+        if item.get('kind') == 'award':
+            sentence = f'I was awarded the <strong>{esc(item["award"])}</strong>.'
         else:
-            sentence = f'{subject} {verb} been accepted to <strong>{venue}</strong>.'
+            venue = esc(item['venue'])
+            count = item['count']
+            subject = f'<strong>{count} {"paper" if count == 1 else "papers"}</strong>'
+            verb = 'has' if count == 1 else 'have'
+            if item.get('kind') == 'published':
+                sentence = f'{subject} {verb} been published in <strong>{venue}</strong>.'
+            else:
+                sentence = f'{subject} {verb} been accepted to <strong>{venue}</strong>.'
         updates.append(f'<li class="news-item"><time datetime="{esc(item["date"])}">{esc(item["date"].replace("-", "."))}</time><p><span class="news-celebration" aria-hidden="true">🎉🎉</span> {sentence}</p></li>')
     years = sorted({p['eventDate'][:4] for p in papers})
     date_range = years[0] if len(years) == 1 else f'{years[0]}–{years[-1]}'
