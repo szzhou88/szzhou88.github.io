@@ -71,6 +71,10 @@ def build():
         venue_label = esc(p.get('venueLabel', f'{p["venue"]} {p["year"]}'))
         resource = (f'<a class="paper-link" href="{esc(p["url"])}" target="_blank" rel="noopener noreferrer" aria-label="{esc(p["linkLabel"] + ": " + p["title"])}">{esc(p["linkLabel"])} <span aria-hidden="true">↗</span></a>'
                     if p['url'] else ('' if status else '<span class="link-pending">Link forthcoming</span>'))
+        if p.get('codeUrl'):
+            resource += f'<a class="paper-link" href="{esc(p["codeUrl"])}" target="_blank" rel="noopener noreferrer" aria-label="Code: {esc(p["title"])}">Code <span aria-hidden="true">↗</span></a>'
+        if resource:
+            resource = f'<div class="paper-resources">{resource}</div>'
         rows.append(f'''<article class="publication" id="{p['id']}" data-venue="{esc(p['venue'])}">
           <span class="paper-number" aria-hidden="true">{i:02d}</span>
           {figure}

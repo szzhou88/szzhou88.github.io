@@ -114,3 +114,4 @@
 
 /* Chinese name accompanies the English name without crowding narrow screens. */
 .hero h1 .chinese-name{display:inline-block;font-size:.46em;letter-spacing:0;white-space:nowrap;vertical-align:baseline}
+.paper-resources{display:flex;align-items:center;flex-wrap:wrap;gap:0 20px}

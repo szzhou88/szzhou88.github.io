@@ -65,7 +65,8 @@
       430
     ],
     "newsKey": "news-iclr-2026",
-    "publicationDate": "2026-04"
+    "publicationDate": "2026-04",
+    "codeUrl": "https://github.com/finyorko/InterSyn"
   },
   {
     "id": "paper-3",
@@ -148,7 +149,8 @@
       274
     ],
     "newsKey": "news-acl-2026",
-    "publicationDate": "2026-07"
+    "publicationDate": "2026-07",
+    "codeUrl": "https://github.com/finyorko/longcli-bench"
   },
   {
     "id": "paper-5",
@@ -184,7 +186,8 @@
       504
     ],
     "newsKey": "news-eccv-2026",
-    "publicationDate": "2026-09"
+    "publicationDate": "2026-09",
+    "codeUrl": "https://github.com/szzhou88/LaGen"
   },
   {
     "id": "paper-6",
@@ -223,7 +226,8 @@
       366
     ],
     "newsKey": "news-eccv-2026",
-    "publicationDate": "2026-09"
+    "publicationDate": "2026-09",
+    "codeUrl": "https://github.com/zfr00/ForenAgent"
   },
   {
     "id": "paper-7",
@@ -259,7 +263,8 @@
       925
     ],
     "newsKey": "news-tmlr",
-    "publicationDate": "2026-07"
+    "publicationDate": "2026-07",
+    "codeUrl": "https://github.com/finyorko/ARMOR"
   },
   {
     "id": "paper-8",

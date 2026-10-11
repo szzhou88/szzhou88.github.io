@@ -58,6 +58,7 @@
 ```
 
 - `imageSize`：原图真实宽、高（像素）。
+- `codeUrl`：可选的公开 GitHub 仓库链接；填写后会在 Paper / Preprint 旁显示 Code。未公开或未确认的仓库留空或省略该字段。
 - `imageCrop`：预览裁剪范围 `[左边距, 顶边距, 宽度, 高度]`。范围不能超出原图。点击预览仍可查看原图。
 - 尚未公开的论文：`publicationStatus` 用 `forthcoming`，`url` 和 `linkLabel` 可为空字符串；公开后更新状态和链接。
 - 可用 `venueLabel` 自定义显示名称，例如 `"IEEE TVCG"`。
