@@ -116,7 +116,7 @@ def export_site(destination):
     if output.exists():
         shutil.rmtree(output)
     papers = json.loads((ROOT / 'publications.json').read_text())
-    paths = {'index.html', 'style.css', 'script.js', '.nojekyll',
+    paths = {'index.html', 'style.css', 'script.js', '.nojekyll', 'robots.txt', 'sitemap.xml',
              'assets/favicon.svg', 'assets/portrait.jpg'}
     paths.update(p['image'] for p in papers if p.get('image'))
     for name in sorted(paths):
